@@ -1,0 +1,22 @@
+# Core Deep Learning & ML
+torch
+torchvision
+scikit-learn
+ltn # Logic Tensor Networks
+
+# Data Handling & Scientific Computing
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+graphviz
+
+# Utilities
+tqdm # Progress bar utility
+
+# Hardware Monitoring & Model Analysis
+pynvml # For NVIDIA GPU monitoring
+fvcore # For FLOPs calculation

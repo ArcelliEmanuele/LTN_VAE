@@ -1,0 +1,23 @@
+name: ltn_vae
+channels:
+  - pytorch
+  - nvidia # For pynvml
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - torchvision
+  - pandas
+  - matplotlib
+  - seaborn
+  - numpy
+  - scikit-learn
+  - scipy
+  - tqdm
+  - python-graphviz
+  - pynvml
+  - pip:
+    - ltn
+    - fvcore
