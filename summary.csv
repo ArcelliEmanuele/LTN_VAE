@@ -1,0 +1,4 @@
+Model,Final Sum Accuracy,Final Probe (features),Final Causal Success (%)
+Baseline,0.6370,0.9858,38.45
+Fuzzy LTN,0.0692,0.9169,62.29
+Stable LTN,0.9805,0.9900,N/A
